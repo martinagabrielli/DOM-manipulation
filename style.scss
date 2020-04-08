@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "8-Bit-Font";
+    src: url(/font/8-bit_wonder-webfont.woff);
+    src: url(/font/8-bit_wonder-webfont.woff2);
+}
+
+body {
+    font-family: "8-Bit-Font", Fallback, sans-serif;
+}
